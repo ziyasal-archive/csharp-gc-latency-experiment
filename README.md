@@ -2,7 +2,7 @@
 
 C# GC Latency Experiment
 
-> Event tracing for Windows (ETW) that provides [detailed information](https://msdn.microsoft.com/en-us/library/ff356162.aspx)
+> Event tracing for Windows (ETW) provides collect information pertaining to garbage collection. For more information [msdn link](https://msdn.microsoft.com/en-us/library/ff356162.aspx)
 
 Here are the steps in using the tool to get the GC information;
 
