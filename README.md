@@ -11,4 +11,4 @@ Here are the steps in using the tool to get the GC information;
 - Start monitoring `PerfMonitor.exe /process:{your-process-id} start`
 - do stuff
 - Stop monitoring `PerfMonitor.exe stop`
-- Generate report `PerfMonitor.exe GCTime` This command will generate a report you need_
+- Generate report `PerfMonitor.exe GCTime` _This command will generate a report you need_
